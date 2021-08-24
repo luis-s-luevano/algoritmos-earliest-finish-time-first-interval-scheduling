@@ -19,10 +19,10 @@ El programa debe regresar como respuesta los índices de las tareas que conforma
 Para el ejemplo anterior:
 
 ```
->> 1, 4, 7
+>> 1 4 7
 ```
 
-La salida del programa debe ser por la standard output (std::cout) con los elementos de la solución unidos por los caracteres de coma y espacio: ", " sin saltos de línea.
+La salida del programa debe ser por la standard output (std::cout) con los elementos de la solución unidos por espacios: " " sin saltos de línea. Pueden dejar un espacio después del último elemento.
 
 ### Evaluación
 Tu programa debe compilar sin errores ni warnings y debe ejecutarse correctamente en un ambiente linux. Piensa en posibles casos de prueba extremos que pueden ser utilizados para probar tu programa.
