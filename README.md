@@ -41,5 +41,12 @@ Para obtener el 100% de los puntos de esta actividad, tu programa:
 En este espacio en GitHub classroom. En la pestaña de "Actions" se evaluará el código con los casos de prueba.
 
 ### ¿Cómo la entrego?
-Se tomarán en cuenta las soluciones sometidas en este repositorio de la plataforma de GitHub classroom. Pueden subir su archivo "homework-1.cpp" por separado o editar el que está arriba y someterlo via *commit*.
+Se tomarán en cuenta las soluciones sometidas en este repositorio de la plataforma de GitHub classroom. Pueden subir su archivo "homework-01.cpp" por separado o editar el que está arriba y someterlo via *commit*.
+
+Adicionalmente, en el espacio de la tarea en canvas, un integrante del equipo entrega un archivo .ZIP llamado A0XXXXXXX-A0YYYYYYY_Act1.1, (donde las XXXXXXXs y YYYYYYY son las matrículas del equipo)
+     que contenga dentro una carpeta llamada A0XXXXXXX-A0YYYYYYY_Act1.1,
+          en donde se encontrará UN único archivo .cpp.  Se pueden tener uno o más archivos .h.
+
+Un solo submission por equipo
+Si se incumple este formato de entrega, se penalizará con 20 puntos sobre la nota obtenida.
 
